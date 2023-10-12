@@ -1,0 +1,14 @@
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\bin\Debug\net7.0\TryGetValuePractice.exe
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\bin\Debug\net7.0\TryGetValuePractice.deps.json
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\bin\Debug\net7.0\TryGetValuePractice.runtimeconfig.json
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\bin\Debug\net7.0\TryGetValuePractice.dll
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\bin\Debug\net7.0\TryGetValuePractice.pdb
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.AssemblyInfoInputs.cache
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.AssemblyInfo.cs
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.csproj.CoreCompileInputs.cache
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.dll
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\refint\TryGetValuePractice.dll
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.pdb
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\TryGetValuePractice.genruntimeconfig.cache
+C:\Users\camdi\source\repos\TryGetValuePractice\TryGetValuePractice\obj\Debug\net7.0\ref\TryGetValuePractice.dll
